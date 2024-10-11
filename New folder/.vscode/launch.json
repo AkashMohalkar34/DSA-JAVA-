@@ -1,0 +1,164 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "BuildTree",
+      "request": "launch",
+      "mainClass": "Tree.BuildTree",
+      "projectName": "New folder_8aea8a7d"
+    },
+    {
+      "type": "java",
+      "name": "Anc",
+      "request": "launch",
+      "mainClass": "Anc",
+      "projectName": "New folder_8aea8a7d"
+    },
+    {
+      "type": "java",
+      "name": "Ancestor",
+      "request": "launch",
+      "mainClass": "Ancestor",
+      "projectName": "New folder_8aea8a7d"
+    },
+    {
+      "type": "java",
+      "name": "QueueRev",
+      "request": "launch",
+      "mainClass": "QueueRev",
+      "projectName": "New folder_8aea8a7d"
+    },
+    {
+      "type": "java",
+      "name": "InterHalves",
+      "request": "launch",
+      "mainClass": "InterHalves",
+      "projectName": "New folder_8aea8a7d"
+    },
+    {
+      "type": "java",
+      "name": "Non_repeatation",
+      "request": "launch",
+      "mainClass": "Non_repeatation",
+      "projectName": "New folder_8aea8a7d"
+    },
+    {
+      "type": "java",
+      "name": "Queue2S",
+      "request": "launch",
+      "mainClass": "Queue2S",
+      "projectName": "New folder_8aea8a7d"
+    },
+    {
+      "type": "java",
+      "name": "stack2Q",
+      "request": "launch",
+      "mainClass": "stack2Q",
+      "projectName": "New folder_8aea8a7d"
+    },
+    {
+      "type": "java",
+      "name": "Queue1",
+      "request": "launch",
+      "mainClass": "Queue1",
+      "projectName": "New folder_8aea8a7d"
+    },
+    {
+      "type": "java",
+      "name": "QueueLinked",
+      "request": "launch",
+      "mainClass": "QueueLinked",
+      "projectName": "New folder_8aea8a7d"
+    },
+    {
+      "type": "java",
+      "name": "Que",
+      "request": "launch",
+      "mainClass": "Que",
+      "projectName": "New folder_8aea8a7d"
+    },
+    {
+      "type": "java",
+      "name": "Q",
+      "request": "launch",
+      "mainClass": "Q",
+      "projectName": "New folder_8aea8a7d"
+    },
+    {
+      "type": "java",
+      "name": "queue",
+      "request": "launch",
+      "mainClass": "queue",
+      "projectName": "New folder_8aea8a7d"
+    },
+    {
+      "type": "java",
+      "name": "DoublyL",
+      "request": "launch",
+      "mainClass": "DoublyL",
+      "projectName": "New folder_8aea8a7d"
+    },
+    {
+      "type": "java",
+      "name": "ZinZag",
+      "request": "launch",
+      "mainClass": "ZinZag",
+      "projectName": "New folder_8aea8a7d"
+    },
+    {
+      "type": "java",
+      "name": "MergeSort",
+      "request": "launch",
+      "mainClass": "MergeSort",
+      "projectName": "New folder_8aea8a7d"
+    },
+    {
+      "type": "java",
+      "name": "RemoveCycle",
+      "request": "launch",
+      "mainClass": "RemoveCycle",
+      "projectName": "New folder_8aea8a7d"
+    },
+    {
+      "type": "java",
+      "name": "Cycle",
+      "request": "launch",
+      "mainClass": "Cycle",
+      "projectName": "New folder_8aea8a7d"
+    },
+    {
+      "type": "java",
+      "name": "palindrome",
+      "request": "launch",
+      "mainClass": "palindrome",
+      "projectName": "New folder_8aea8a7d"
+    },
+    {
+      "type": "java",
+      "name": "LinkedList",
+      "request": "launch",
+      "mainClass": "LinkedList",
+      "projectName": "New folder_8aea8a7d"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/javaBasics/New folder",
+      "program": "d:/javaBasics/New folder/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
